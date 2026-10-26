@@ -1,0 +1,11 @@
+.venv/
+.cache/
+__pycache__/
+models/
+fonts/
+out/
+test-clip/
+*.mp4
+*.mov
+*.MOV
+.DS_Store
